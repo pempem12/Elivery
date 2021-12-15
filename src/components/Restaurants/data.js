@@ -20,7 +20,8 @@ export const RestaurantsData = [
         name: 'Wendys',
         desc: 'American chain specializing in burgers and frozen custard.',
         rating: '4/5',
-        button: 'Wendys'
+        button: 'Wendys',
+        path: '/Wendys'
     },
     {
         img: restaurant3,
@@ -28,7 +29,8 @@ export const RestaurantsData = [
         name: 'Zaxbys',
         desc: 'American chain specializing in burgers and frozen custard.',
         rating: '2/5',
-        button: 'Zaxbys'
+        button: 'Zaxbys',
+        path: '/Zaxbys'
     },
     {
         img: restaurant4,
@@ -36,6 +38,7 @@ export const RestaurantsData = [
         name: 'Five Guys',
         desc: 'American chain specializing in burgers and frozen custard.',
         rating: '6/5',
-        button: 'Five Guys'
+        button: 'Five Guys',
+        path:'FiveGuys'
     }
 ]

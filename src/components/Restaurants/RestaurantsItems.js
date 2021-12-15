@@ -46,7 +46,6 @@ export const RestaurantInfo = styled.div`
 
 export const RestaurantTitle = styled(Link)`
     font-weight: 400;
-    font-family: "Estonia", cursive;
     font-size: 1.5rem;
     border: none;
     color: #e31837;
